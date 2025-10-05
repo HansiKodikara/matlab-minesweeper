@@ -1,0 +1,47 @@
+# MATLAB Files
+*.asv
+*.m~
+*~
+
+# MATLAB Temporary files
+*.tmp
+
+# MATLAB MEX files
+*.mex*
+
+# MATLAB P-files
+*.p
+
+# MATLAB MAT-files (optional - remove if you want to include data files)
+# *.mat
+
+# MATLAB Figure files
+*.fig
+
+# MATLAB Simulink files
+*.slx.autosave
+*.slxc
+*.slx.original
+
+# Code generation folders
+codegen/
+slprj/
+
+# MATLAB App Designer files
+*.mlapp.bak
+
+# MATLAB Cache
+*.mltbx
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
