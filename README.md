@@ -1,4 +1,4 @@
-# MATLAB Minesweeper Game 🎮💣
+# MATLAB Minesweeper Game 🟦💣
 
 A fully functional Minesweeper game implemented in MATLAB with a graphical user interface.
 
